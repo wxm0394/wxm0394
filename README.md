@@ -56,7 +56,6 @@ tools/  finance/  dev/  indie-games/  warband-mods/
 ## `[02] finance/`
 | repo | type | description |
 |---|---|---|
-| [Multi-Armed-Bandit](https://github.com/wxm0394/Multi-Armed-Bandit) | own | Multi-armed bandit experiments (Go) |
 | [O-Finance](https://github.com/wxm0394/O-Finance) | own | Finance tooling (TypeScript) |
 | [daily_stock_analysis](https://github.com/wxm0394/daily_stock_analysis) | fork | LLM-driven A/H-share analyzer |
 | [fava](https://github.com/wxm0394/fava) | fork | Web interface for Beancount |
@@ -67,10 +66,10 @@ tools/  finance/  dev/  indie-games/  warband-mods/
 | [Switchyard](https://github.com/wxm0394/Switchyard) | own | Railway dispatching in Go (MIT) |
 | [Switchyard-Cost](https://github.com/wxm0394/Switchyard-Cost) | own | Cost module for Switchyard |
 | [fleet-management](https://github.com/wxm0394/fleet-management) | own | Fleet management (Go) |
+| [Multi-Armed-Bandit](https://github.com/wxm0394/Multi-Armed-Bandit) | own | Multi-armed bandit experiments (Go) |
 | [langgraph](https://github.com/wxm0394/langgraph) | fork | Build resilient agents |
 | [agentrun](https://github.com/wxm0394/agentrun) | fork | Durable execution and control plane for agents |
 | [Orbital](https://github.com/wxm0394/Orbital) | fork | Context is yours. Agents are replaceable |
-| [HowToLiveBetter](https://github.com/wxm0394/HowToLiveBetter) | fork | Evidence-based life guide |
 
 ## `[04] indie-games/`
 | repo | type | description |
@@ -80,6 +79,7 @@ tools/  finance/  dev/  indie-games/  warband-mods/
 | [Malazan](https://github.com/wxm0394/Malazan) | own | C++ game project |
 | [E-Sugoroku](https://github.com/wxm0394/E-Sugoroku) | fork | Sugoroku board game |
 | [Ban-Sugoroku](https://github.com/wxm0394/Ban-Sugoroku) | fork | HTML5 board game, Japanese history |
+| [HowToLiveBetter](https://github.com/wxm0394/HowToLiveBetter) | fork | Evidence-based life guide |
 | [GameFactory-3A](https://github.com/wxm0394/GameFactory-3A) | fork | 3A game-generation skill and asset framework |
 | [awesome-gamedev-agent-skills](https://github.com/wxm0394/awesome-gamedev-agent-skills) | fork | 74 game-dev skills for AI coding agents |
 | [OpenCE](https://github.com/wxm0394/OpenCE) | fork | Halo: Combat Evolved port |

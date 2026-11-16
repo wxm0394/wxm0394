@@ -19,7 +19,9 @@ tools/  finance/  dev/  indie-games/  warband-mods/
 | [Vane](https://github.com/wxm0394/Vane) | fork | AI-powered answering engine |
 | [Mika](https://github.com/wxm0394/Mika) | fork | On-device Android AI agent |
 | [magpie](https://github.com/wxm0394/magpie) | fork | Switch models per coding agent from the menu bar |
+| [loopx](https://github.com/wxm0394/loopx) | fork | Control plane for 24/7 always-on agents |
 | [dsh-purge](https://github.com/wxm0394/dsh-purge) | fork | Mirror of an upstream DeepSeek harness repo |
+| [dsh-our-free-model](https://github.com/wxm0394/dsh-our-free-model) | fork | Plugin for dsh: free access to frontier models |
 | [book-to-skill](https://github.com/wxm0394/book-to-skill) | fork | Turn a technical book PDF into a Claude Code skill |
 | [blender-skills](https://github.com/wxm0394/blender-skills) | fork | Blender skills for coding agents |
 | [lemo-opuscar](https://github.com/wxm0394/lemo-opuscar) | fork | Film styles made in code for Claude Code |
@@ -31,6 +33,7 @@ tools/  finance/  dev/  indie-games/  warband-mods/
 | repo | type | description |
 |---|---|---|
 | [airgorah](https://github.com/wxm0394/airgorah) | fork | WiFi security auditing |
+| [awesome-osint-arsenal](https://github.com/wxm0394/awesome-osint-arsenal) | fork | OSINT and recon toolkit, 100+ tools with installer |
 | [Pentest-Swarm-AI](https://github.com/wxm0394/Pentest-Swarm-AI) | fork | Autonomous pentesting with a swarm of AI agents |
 | [pentagi](https://github.com/wxm0394/pentagi) | fork | Autonomous AI pentesting agents |
 | [sapper-v2](https://github.com/wxm0394/sapper-v2) | fork | Autonomous AI pentest legion |
@@ -48,6 +51,7 @@ tools/  finance/  dev/  indie-games/  warband-mods/
 |---|---|---|
 | [1Panel](https://github.com/wxm0394/1Panel) | fork | Linux server management panel |
 | [barrier](https://github.com/wxm0394/barrier) | fork | Open-source KVM software |
+| [tailcat](https://github.com/wxm0394/tailcat) | fork | netcat over Tailscale's data plane |
 | [free-llm-intel](https://github.com/wxm0394/free-llm-intel) | fork | Daily AI-vendor news RSS and free-tier tracker |
 | [freebie-radar](https://github.com/wxm0394/freebie-radar) | fork | Freebie aggregator with AI filtering and Telegram push |
 | [PerkRadar](https://github.com/wxm0394/PerkRadar) | fork | Self-hosted deals aggregator |
@@ -89,6 +93,7 @@ tools/  finance/  dev/  indie-games/  warband-mods/
 ## `[05] warband-mods/`
 | repo | type | description |
 |---|---|---|
+| [SnS_ModuleSystem](https://github.com/wxm0394/SnS_ModuleSystem) | own | Module System source (Python) |
 | [RustTheWheel](https://github.com/wxm0394/RustTheWheel) | own | Warband mod |
 | [Warband-Modding-Workspace](https://github.com/wxm0394/Warband-Modding-Workspace) | own | Modding workspace |
 | [warband-mod-1815](https://github.com/wxm0394/warband-mod-1815) | own | 1815-era mod |
@@ -99,5 +104,5 @@ tools/  finance/  dev/  indie-games/  warband-mods/
 | [BetweenEmpires](https://github.com/wxm0394/BetweenEmpires) | fork | Reference project |
 
 ```console
-$ echo "last updated: 2026-11-15"
+$ echo "last updated: 2026-11-16"
 ```

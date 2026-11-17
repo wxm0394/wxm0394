@@ -20,6 +20,8 @@ tools/  finance/  dev/  indie-games/  warband-mods/
 | [Mika](https://github.com/wxm0394/Mika) | fork | On-device Android AI agent |
 | [magpie](https://github.com/wxm0394/magpie) | fork | Switch models per coding agent from the menu bar |
 | [loopx](https://github.com/wxm0394/loopx) | fork | Control plane for 24/7 always-on agents |
+| [Agent2API](https://github.com/wxm0394/Agent2API) | fork | Local AI routing gateway with unified OpenAI / Anthropic APIs |
+| [freellmapi](https://github.com/wxm0394/freellmapi) | fork | One /v1 endpoint over many free LLM providers, with routing and failover |
 | [dsh-purge](https://github.com/wxm0394/dsh-purge) | fork | Mirror of an upstream DeepSeek harness repo |
 | [dsh-our-free-model](https://github.com/wxm0394/dsh-our-free-model) | fork | Plugin for dsh: free access to frontier models |
 | [book-to-skill](https://github.com/wxm0394/book-to-skill) | fork | Turn a technical book PDF into a Claude Code skill |
@@ -104,5 +106,5 @@ tools/  finance/  dev/  indie-games/  warband-mods/
 | [BetweenEmpires](https://github.com/wxm0394/BetweenEmpires) | fork | Reference project |
 
 ```console
-$ echo "last updated: 2026-11-16"
+$ echo "last updated: 2026-11-17"
 ```

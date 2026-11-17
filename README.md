@@ -5,12 +5,28 @@ $ whoami
 wxm0394 :: quant trader · Warband modder · Linux tinkerer
 
 $ ls ./domains
-tools/  finance/  dev/  indie-games/  warband-mods/
+freebies/  tools/  finance/  dev/  indie-games/  warband-mods/
 ```
 
 > Public repositories only. `own` = authored here, `fork` = forked for study / reference.
 
-## `[01] tools/`
+## `[01] freebies/`
+
+### `freebies/monitor`
+| repo | type | description |
+|---|---|---|
+| [freebie-radar](https://github.com/wxm0394/freebie-radar) | fork | Freebie aggregator with AI filtering and Telegram push |
+| [PerkRadar](https://github.com/wxm0394/PerkRadar) | fork | Self-hosted deals aggregator |
+| [free-llm-intel](https://github.com/wxm0394/free-llm-intel) | fork | Daily AI-vendor news RSS and free-tier tracker |
+
+### `freebies/gateway`
+| repo | type | description |
+|---|---|---|
+| [freellmapi](https://github.com/wxm0394/freellmapi) | fork | One /v1 endpoint over many free LLM providers, with routing and failover |
+| [Agent2API](https://github.com/wxm0394/Agent2API) | fork | Local AI routing gateway with unified OpenAI / Anthropic APIs |
+| [dsh-our-free-model](https://github.com/wxm0394/dsh-our-free-model) | fork | Plugin for dsh: free access to frontier models |
+
+## `[02] tools/`
 
 ### `tools/ai`
 | repo | type | description |
@@ -20,10 +36,7 @@ tools/  finance/  dev/  indie-games/  warband-mods/
 | [Mika](https://github.com/wxm0394/Mika) | fork | On-device Android AI agent |
 | [magpie](https://github.com/wxm0394/magpie) | fork | Switch models per coding agent from the menu bar |
 | [loopx](https://github.com/wxm0394/loopx) | fork | Control plane for 24/7 always-on agents |
-| [Agent2API](https://github.com/wxm0394/Agent2API) | fork | Local AI routing gateway with unified OpenAI / Anthropic APIs |
-| [freellmapi](https://github.com/wxm0394/freellmapi) | fork | One /v1 endpoint over many free LLM providers, with routing and failover |
 | [dsh-purge](https://github.com/wxm0394/dsh-purge) | fork | Mirror of an upstream DeepSeek harness repo |
-| [dsh-our-free-model](https://github.com/wxm0394/dsh-our-free-model) | fork | Plugin for dsh: free access to frontier models |
 | [book-to-skill](https://github.com/wxm0394/book-to-skill) | fork | Turn a technical book PDF into a Claude Code skill |
 | [blender-skills](https://github.com/wxm0394/blender-skills) | fork | Blender skills for coding agents |
 | [lemo-opuscar](https://github.com/wxm0394/lemo-opuscar) | fork | Film styles made in code for Claude Code |
@@ -54,19 +67,16 @@ tools/  finance/  dev/  indie-games/  warband-mods/
 | [1Panel](https://github.com/wxm0394/1Panel) | fork | Linux server management panel |
 | [barrier](https://github.com/wxm0394/barrier) | fork | Open-source KVM software |
 | [tailcat](https://github.com/wxm0394/tailcat) | fork | netcat over Tailscale's data plane |
-| [free-llm-intel](https://github.com/wxm0394/free-llm-intel) | fork | Daily AI-vendor news RSS and free-tier tracker |
-| [freebie-radar](https://github.com/wxm0394/freebie-radar) | fork | Freebie aggregator with AI filtering and Telegram push |
-| [PerkRadar](https://github.com/wxm0394/PerkRadar) | fork | Self-hosted deals aggregator |
 | [awesome-telegram](https://github.com/wxm0394/awesome-telegram) | fork | Curated Telegram channels, groups and bots |
 
-## `[02] finance/`
+## `[03] finance/`
 | repo | type | description |
 |---|---|---|
 | [O-Finance](https://github.com/wxm0394/O-Finance) | own | Finance tooling (TypeScript) |
 | [daily_stock_analysis](https://github.com/wxm0394/daily_stock_analysis) | fork | LLM-driven A/H-share analyzer |
 | [fava](https://github.com/wxm0394/fava) | fork | Web interface for Beancount |
 
-## `[03] dev/`
+## `[04] dev/`
 | repo | type | description |
 |---|---|---|
 | [Switchyard](https://github.com/wxm0394/Switchyard) | own | Railway dispatching in Go (MIT) |
@@ -77,7 +87,7 @@ tools/  finance/  dev/  indie-games/  warband-mods/
 | [agentrun](https://github.com/wxm0394/agentrun) | fork | Durable execution and control plane for agents |
 | [Orbital](https://github.com/wxm0394/Orbital) | fork | Context is yours. Agents are replaceable |
 
-## `[04] indie-games/`
+## `[05] indie-games/`
 | repo | type | description |
 |---|---|---|
 | [CyberSim](https://github.com/wxm0394/CyberSim) | own | dead-air (TypeScript) |
@@ -92,7 +102,7 @@ tools/  finance/  dev/  indie-games/  warband-mods/
 | [totk-pc-recomp](https://github.com/wxm0394/totk-pc-recomp) | fork | Static recompilation of a console game to native PC |
 | [Genpei-Gassen-RE](https://github.com/wxm0394/Genpei-Gassen-RE) | fork | Reverse engineering project (C) |
 
-## `[05] warband-mods/`
+## `[06] warband-mods/`
 | repo | type | description |
 |---|---|---|
 | [SnS_ModuleSystem](https://github.com/wxm0394/SnS_ModuleSystem) | own | Module System source (Python) |
